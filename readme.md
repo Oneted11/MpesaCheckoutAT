@@ -1,3 +1,7 @@
+# what is this?
+
+express app exposing single endpoint for mpesa stk push using africastalking mpesacheckout api
+
 # setup
 
 `npm install`
