@@ -1,3 +1,11 @@
+# setup
+
+`npm install`
+
+## development
+
+`npx nodemon server.js`
+
 # To Remember
 
 You will need to create a payment project on the africas talking sandbox thingie
